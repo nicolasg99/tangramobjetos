@@ -1,0 +1,1 @@
+Para que el programa funcion se debera cambiar la ruta de acceso de la carpeta niveles que se encuentra ubicada en el inicio de la pestaña tangram. 
